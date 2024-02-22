@@ -5,6 +5,8 @@
 
 [Android Download](https://github.com/TCP-HANDLER/TCP-HANDLER/releases/download/TCP-Handler/TCPHandler.apk)
 
+[iOS Tutorial](https://github.com/TCP-HANDLER/TCP-HANDLER/blob/main/iOS-Steps.md)
+
 # Showcase
 ![image](https://cdn.discordapp.com/attachments/1195799685093412995/1195800547521998958/resetall.png?ex=65b54f0b&is=65a2da0b&hm=a81988da52aae30ebf14bda40583bf064c3cc6bc4ced9955062f634e2493e82a&)
 ![image](https://cdn.discordapp.com/attachments/1195799685093412995/1195800547278721175/option_2.png?ex=65b54f0b&is=65a2da0b&hm=9f818fb98cf88742d078bcd9f9c9c493b436cf27fe9ce852090784e6fbf4fdac&)
