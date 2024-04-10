@@ -5,7 +5,7 @@
 
 [Android Download](https://github.com/TCP-HANDLER/TCP-HANDLER/releases/download/Official/ModdedGT.apk)
 
-[iOS Tutorial](https://github.com/TCP-HANDLER/TCP-HANDLER/blob/main/iOS-Steps.md)
+
 
 
 NOTE FOR ANDROID USERS: Delete original Growtopia before installing this. I modded this to become the anti shadow ban GT. Thanks :)
