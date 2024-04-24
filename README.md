@@ -8,8 +8,6 @@
 
 
 
-NOTE FOR ANDROID USERS: Delete original Growtopia before installing this. I modded this to become the anti shadow ban GT. Thanks :)
-
 # Showcase
 ![image](https://github.com/TCP-HANDLER/TCP-HANDLER/blob/main/tcp%20handler.png)
 
