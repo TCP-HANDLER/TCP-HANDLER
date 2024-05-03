@@ -12,6 +12,7 @@ U will need to disable Windows Defender. This is not yet verified application. O
 # Security
 
 TCP-Handler is safe to use and its not owned by some random dude! 
+
 TCP-Handler is owned & developed by Atomic Network Corporation.
 
 
