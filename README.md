@@ -7,7 +7,7 @@
 
 NOTE: For people who use this on Windows devices!
 
-U will need to disable Windows Defender. This is not yet verified application. Our team will get soon! 
+U will need to disable Windows Defender. This is not yet verified application. Our team will get the certification soon! 
 
 # Security
 
