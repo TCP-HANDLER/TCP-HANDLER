@@ -1,7 +1,7 @@
 ### TCP-HANDLER
 
 # Download
-[Windows Download](https://github.com/TCP-HANDLER/TCP-HANDLER/releases/download/TCP_HANDLER/TCP-Handler.exe)
+[Windows Download](https://github.com/TCP-HANDLER/TCP-HANDLER/releases/download/PCUPDATE/TCPHANDLER.zip)
 
 [Android Download](https://github.com/TCP-HANDLER/TCP-HANDLER/releases/download/TCP_HANDLER/TCPHandler.apk)
 
