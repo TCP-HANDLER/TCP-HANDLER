@@ -5,6 +5,8 @@
 
 [Android Download](https://github.com/TCP-HANDLER/TCP-HANDLER/releases/download/TCP_HANDLER/TCPHandler.apk)
 
+[iOS tutorial](https://github.com/TCP-HANDLER/TCP-HANDLER/blob/main/ios-tutorial.md)
+
 
 
 
